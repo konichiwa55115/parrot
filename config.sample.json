@@ -1,9 +1,0 @@
-{
-  "telegramToken": "XXX",
-  "witToken": {
-    "EN": "XXX",
-    "DE": "XXX"
-  },
-  "ffmpegPath": "XXX",
-  "botName": "XXX Name without @"
-}
